@@ -1,1 +1,1 @@
- ##Compose interoperability app that uses Compose elements in a view-based app.
+ ##integrated Views into the Compose UI of the Juice Tracker app UI; a Spinner, a RatingBar, and an AdView. To build these components, I used View Interoperability, or View Interop for short. With View Interop, we can actually add Views to our app by wrapping them in a Composable##
